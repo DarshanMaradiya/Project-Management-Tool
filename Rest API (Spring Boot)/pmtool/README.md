@@ -1,4 +1,4 @@
-# Steps to run the React application
+# Steps to run the Spring Boot REST API Server
 
 ## Instructions
 
